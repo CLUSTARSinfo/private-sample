@@ -1,1 +1,1 @@
-# private-sample
+# CLUSTARSのワールド用素材をおくところ
